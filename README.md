@@ -4,7 +4,6 @@
 
 💡 &nbsp;I like to explore new technologies and develop software.\
 🕹️ &nbsp;In my free time, I like to play some videogames with my friends.\
-🏋🏼 &nbsp;I'm also getting into weith lifting at the moment and I'm really enjoing it.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -21,12 +20,6 @@
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)&nbsp;
 ![Go](https://img.shields.io/badge/-go-333333?style=flat&logo=go)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)&nbsp;
-
-# Statistics #
-
-![Davide Pollicino github stats](https://github-readme-stats.vercel.app/api?username=NoahZiltener&show_icons=true&theme=tokyonight)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=NoahZiltener" alt="NoahZiltener" /> </p>
-<br>
 
 # Most Used Languages #
 
